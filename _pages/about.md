@@ -28,43 +28,197 @@ Explore my portfolio and see what gaming means when passion meets performance.
 
 A data-driven personal website
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Gaming is more than reflexes—it's insight, analysis, and growth.
+This site is built to track my journey not just through achievements, but through data.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+From win/loss ratios to reaction times, stream engagement, and platform reach, I use metrics to improve gameplay, build strategies, and connect with my audience. Every click, stat, and performance review fuels the next level.
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+🔍 What powers this portfolio:
+
+Real-time match history and performance stats
+
+Stream analytics (viewer trends, peak engagement)
+
+Personal gaming KPIs and improvement tracking
+
+Interactive charts for milestones and rank progression
+
+Automated logs for new uploads, highlights, and mods
+
+Whether you're here to recruit, collaborate, or just explore, let the numbers speak.
 
 Getting started
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Welcome to my digital command center. Whether you're here to scout talent, explore my gameplay, or just vibe with a fellow gamer—you’re in the right place.
+
+This site is built to showcase my passion, performance, and progress. Dive in and see what I'm all about.
+
+🎮 Here’s how to get started:
+
+🎥 Watch: Check out my highlight reels, stream clips, and gameplay edits.
+
+📊 Explore: Dig into my performance stats and competitive history.
+
+🧠 Learn: Read up on my strategies, builds, and modding experiments.
+
+📬 Connect: Want to team up, chat, or collaborate? Hit that contact button.
+
+Let’s press “Start” and make this journey legendary.
 
 Site-wide configuration
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Built with precision, optimized for performance.
+This portfolio is more than just visuals—it's a structured, scalable, and data-driven platform designed to grow with my gaming journey.
+
+🧩 Core Features & Setup:
+
+Framework: Built with [Next.js / React / HTML/CSS – replace as needed] for speed and flexibility
+
+Styling: Tailwind CSS for a modern, responsive UI
+
+Hosting: Deployed on [Vercel / Netlify / GitHub Pages]
+
+Data Handling: JSON/Markdown for content, optional CMS for easy updates
+
+Analytics: Integrated with Google Analytics / Plausible for site performance tracking
+
+Version Control: Managed with Git & GitHub
+
+Performance: Optimized assets, lazy loading, and mobile-first design
+
+🛠️ Custom Components:
+
+Dynamic match tracker
+
+Stat chart visualizations (e.g., Chart.js, Recharts)
+
+Highlight video gallery
+
+Contact form with email forwarding
+
+Theme switcher (Dark/Light modes)
+
+Whether you're a dev, a fan, or a potential collaborator, this section gives you a peek under the hood of my gaming hub.
 
 Create content & metadata
 ------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Gaming content isn't just what you see—it's how it's structured, tagged, and surfaced.
+This portfolio uses a clean content pipeline to keep everything optimized, organized, and easy to maintain.
+
+📂 How I Create & Manage Content:
+
+Game highlights, walkthroughs, and reviews are written in Markdown for simplicity
+
+All content is version-controlled via Git for easy updates and rollback
+
+Reusable templates for blog posts, gameplay breakdowns, and mod showcases
+
+Auto-generated pages from structured content folders (e.g., /content/gameplay, /content/reviews)
+
+🏷️ Metadata for Every Page:
+
+Title: Custom page titles for SEO and clarity
+
+Description: Short summaries for sharing and search engines
+
+Tags: Genre, platform, skill level, and content type
+
+Thumbnail / Cover Image: Optimized for social sharing (Open Graph / Twitter Cards)
+
+Date & Slug: Auto-generated for sorting and linking
+
+🔍 Why It Matters:
+Metadata helps content show up in search, display well in social shares, and makes the site easier to explore. It’s all part of making this portfolio not just look good—but work smart too.
 
 **Markdown generator**
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+Write once. Play forever.
+This site is powered by a custom Markdown content engine that turns simple text files into rich, dynamic pages. No clunky interfaces—just fast, clean content creation with full control.
+
+🧾 Why Markdown?
+
+⚡ Lightweight & fast – Pure text, version-controlled, and instantly loadable
+
+✏️ Easy to write – Focus on the content, not the formatting
+
+🔄 Reusable templates – One format, infinite possibilities
+
+🌐 SEO-friendly – Auto-generates metadata, slugs, and preview images
+
+🧠 Human-readable – Ideal for collaboration and open-source projects
+
+📁 How I Use It:
+
+gameplay.md → Full highlight pages
+
+reviews.md → Game reviews with rating & tag support
+
+stats.md → Player performance summaries
+
+about.md → Editable bio and intro content
+
+meta.yaml → Custom metadata injection for each post
+
+✨ New content? Just drop a Markdown file in the right folder, and it auto-populates the site. No backend. No barriers. Just pure creation.
 
 How to edit your site's GitHub repository
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+Want to customize or contribute? Here's how to dive into the code.
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+This site is fully version-controlled using Git and hosted on GitHub, making it easy to track changes, collaborate, and roll out updates. Here’s how you can edit or manage the repo:
+
+✅ Step-by-Step Instructions
+Fork or Clone the Repository
+
+Navigate to the GitHub repo: github.com/your-username/your-portfolio
+
+Click Fork (to create your own copy) or run:
+
+bash
+Copy
+Edit
+git clone https://github.com/your-username/your-portfolio.git
+Install Dependencies
+
+If the site uses a framework like Next.js or Astro, run:
+
+bash
+Copy
+Edit
+npm install
+Make Your Changes
+
+Update content in the /content or /data folder (e.g., game stats, bio, or highlights).
+
+Edit layout or components in the /components or /pages directory.
+
+Don’t forget to update metadata or SEO tags if you're adding new pages.
+
+Preview Locally
+
+Start the development server:
+
+bash
+Copy
+Edit
+npm run dev
+Visit http://localhost:3000 (or specified port) in your browser.
+
+Commit & Push
+
+After making changes:
+
+bash
+Copy
+Edit
+git add .
+git commit -m "Update content or layout"
+git push origin main
+Deploy Updates
+
+If using Vercel, Netlify, or GitHub Pages, your site will auto-deploy on push.
+
+For manual deployment, follow your host's deployment instructions.
 
 For more info
 ------
