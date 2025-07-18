@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Akshay / 🎮 Gamer"
+title                    : "X / 🎮 Gamer"
 title_separator          : "-"
 name                     : &name "Akshay"
 description              : &description "personal description"
