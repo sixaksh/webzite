@@ -39,6 +39,23 @@ author:
 
   instagram        : "instagram.com"
 
+  # Social media
+
+  facebook         : # Username "facebook.com"
+  flickr           : # Username "flickr.com"
+  goodreads        : # Username "goodreads.com"
+  instagram        : # Username "instagram.com"
+  lastfm           : # Username "lastfm.com"
+  linkedin         : # Username "linkedin.com"
+  pinterest        : # Username "pinterest.com"
+  soundcloud       : # Username "soundcloud.com"
+  steam            : # Username "steam.com"
+  telegram         : # URL "telegram.com"
+  tumblr           : # Username "tumblr.com"
+  twitter          : # Username for X / Twitter "twitter.com"
+  youtube          : # Username "youtube.com"
+ 
+
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
