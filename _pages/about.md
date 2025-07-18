@@ -172,42 +172,69 @@ This site is fully version-controlled using Git and hosted on GitHub, making it 
 ✅ Step-by-Step Instructions
 
 Fork or Clone the Repository
+
 Navigate to the GitHub repo: github.com/your-username/your-portfolio
 
 Click Fork (to create your own copy) or run:
+
 bash
+
 Copy
+
 Edit
+
 git clone https://github.com/your-username/your-portfolio.git
+
 Install Dependencies
 
 If the site uses a framework like Next.js or Astro, run:
+
 bash
+
 Copy
+
 Edit
+
 npm install
+
 Make Your Changes
+
 Update content in the /content or /data folder (e.g., game stats, bio, or highlights).
+
 Edit layout or components in the /components or /pages directory.
 
 Don’t forget to update metadata or SEO tags if you're adding new pages.
+
 Preview Locally
 
 Start the development server:
+
 bash
+
 Copy
+
 Edit
+
 npm run dev
+
 Visit http://localhost:3000 (or specified port) in your browser.
+
 Commit & Push
 
 After making changes:
+
 bash
+
 Copy
+
 Edit
+
 git add .
+
 git commit -m "Update content or layout"
+
 git push origin main
+
 Deploy Updates
 
 If using Vercel, Netlify, or GitHub Pages, your site will auto-deploy on push.
