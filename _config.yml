@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Gaming Centre"
   uri              : # URL
   email            : "none@example.org" 
 
@@ -53,29 +53,29 @@ author:
   # Social media
   artstation       : # Username
   bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
-  linkedin         : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
+  facebook         : # Username X
+  flickr           : # Username X
+  foursquare       : # Username X 
+  goodreads        : # Username X 
+  google_plus      : # Username X
+  keybase          : # Username X
+  instagram        : # Username X
+  lastfm           : # Username X
+  linkedin         : # Username X
+  mastodon         : # URL X
+  medium           : # URL X
+  pinterest        : # Username X
+  soundcloud       : # Username X
+  steam            : # Username X
+  telegram         : # URL X
+  tumblr           : # Username X
   twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
+  vine             : # Username X
+  weibo            : # Username X
+  wikipedia        : # Username X
+  xing             : # Username X
+  youtube          : # Username X
+  zhihu            : # Username X
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
