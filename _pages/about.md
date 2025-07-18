@@ -26,6 +26,8 @@ Game modding & level design
 Let’s press start on something epic. 🎮
 Explore my portfolio and see what gaming means when passion meets performance.
 
+***
+
 A data-driven personal website
 ======
 Gaming is more than reflexes—it's insight, analysis, and growth.
@@ -47,6 +49,8 @@ Automated logs for new uploads, highlights, and mods
 
 Whether you're here to recruit, collaborate, or just explore, let the numbers speak.
 
+***
+
 Getting started
 ======
 Welcome to my digital command center. Whether you're here to scout talent, explore my gameplay, or just vibe with a fellow gamer—you’re in the right place.
@@ -64,6 +68,8 @@ This site is built to showcase my passion, performance, and progress. Dive in an
 📬 Connect: Want to team up, chat, or collaborate? Hit that contact button.
 
 Let’s press “Start” and make this journey legendary.
+
+***
 
 Site-wide configuration
 ------
@@ -100,6 +106,8 @@ Theme switcher (Dark/Light modes)
 
 Whether you're a dev, a fan, or a potential collaborator, this section gives you a peek under the hood of my gaming hub.
 
+***
+
 Create content & metadata
 ------
 Gaming content isn't just what you see—it's how it's structured, tagged, and surfaced.
@@ -130,6 +138,8 @@ Date & Slug: Auto-generated for sorting and linking
 🔍 Why It Matters:
 
 Metadata helps content show up in search, display well in social shares, and makes the site easier to explore. It’s all part of making this portfolio not just look good—but work smart too.
+
+***
 
 **Markdown generator**
 
@@ -162,6 +172,8 @@ about.md → Editable bio and intro content
 meta.yaml → Custom metadata injection for each post
 
 ✨ New content? Just drop a Markdown file in the right folder, and it auto-populates the site. No backend. No barriers. Just pure creation.
+
+***
 
 How to edit your site's GitHub repository
 ------
@@ -240,6 +252,8 @@ Deploy Updates
 If using Vercel, Netlify, or GitHub Pages, your site will auto-deploy on push.
 
 For manual deployment, follow your host's deployment instructions.
+
+***
 
 For more info
 ------
