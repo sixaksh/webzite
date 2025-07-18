@@ -41,18 +41,18 @@ author:
 
   # Social media
 
-  facebook         : # Username "facebook.com"
-  flickr           : # Username "flickr.com"
-  goodreads        : # Username "goodreads.com"
-  instagram        : # Username "instagram.com"
-  lastfm           : # Username "lastfm.com"
-  linkedin         : # Username "linkedin.com"
-  pinterest        : # Username "pinterest.com"
-  soundcloud       : # Username "soundcloud.com"
-  steam            : # Username "steam.com"
-  telegram         : # URL "telegram.com"
-  tumblr           : # Username "tumblr.com"
-  twitter          : # Username for X / Twitter "twitter.com"
+  facebook         : "facebook.com"
+  flickr           : "flickr.com"
+  goodreads        : "goodreads.com"
+  instagram        : "instagram.com"
+  lastfm           : "lastfm.com"
+  linkedin         : "linkedin.com"
+  pinterest        : "pinterest.com"
+  soundcloud       : "soundcloud.com"
+  steam            : "steam.com"
+  telegram         : "telegram.com"
+  tumblr           : "tumblr.com"
+  twitter          : "twitter.com"
   youtube          : # Username "youtube.com"
  
 
