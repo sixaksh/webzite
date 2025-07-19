@@ -62,7 +62,7 @@ This is next-level immersion — literally.
 
 ***
 
-###**🎮 Welcome to My Gaming World**
+**🎮 Welcome to My Gaming World**
 ======
 
 Hey, I’m a passionate gamer, content creator, and digital adventurer.
@@ -86,8 +86,8 @@ Explore my portfolio and see what gaming means when passion meets performance.
 
 ***
 
-###**A data-driven personal website**
-======
+**A data-driven personal website**
+
 Gaming is more than reflexes—it's insight, analysis, and growth.
 This site is built to track my journey not just through achievements, but through data.
 
@@ -109,8 +109,8 @@ Whether you're here to recruit, collaborate, or just explore, let the numbers sp
 
 ***
 
-###**Getting started**
-======
+**Getting started**
+
 Welcome to my digital command center. Whether you're here to scout talent, explore my gameplay, or just vibe with a fellow gamer—you’re in the right place.
 
 This site is built to showcase my passion, performance, and progress. Dive in and see what I'm all about.
@@ -129,8 +129,8 @@ Let’s press “Start” and make this journey legendary.
 
 ***
 
-###**Site-wide configuration**
-------
+**Site-wide configuration**
+
 Built with precision, optimized for performance.
 This portfolio is more than just visuals—it's a structured, scalable, and data-driven platform designed to grow with my gaming journey.
 
@@ -166,8 +166,8 @@ Whether you're a dev, a fan, or a potential collaborator, this section gives you
 
 ***
 
-###**Create content & metadata**
-------
+**Create content & metadata**
+
 Gaming content isn't just what you see—it's how it's structured, tagged, and surfaced.
 This portfolio uses a clean content pipeline to keep everything optimized, organized, and easy to maintain.
 
@@ -199,7 +199,7 @@ Metadata helps content show up in search, display well in social shares, and mak
 
 ***
 
-###**Markdown generator**
+**Markdown generator**
 
 Write once. Play forever.
 
@@ -233,8 +233,8 @@ meta.yaml → Custom metadata injection for each post
 
 ***
 
-###**How to edit your site's GitHub repository**
-------
+**How to edit your site's GitHub repository**
+
 Want to customize or contribute? Here's how to dive into the code.
 
 This site is fully version-controlled using Git and hosted on GitHub, making it easy to track changes, collaborate, and roll out updates. Here’s how you can edit or manage the repo:
@@ -313,11 +313,11 @@ For manual deployment, follow your host's deployment instructions.
 
 ***
 
-###**For more info**
-------
+**For more info**
+
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 
 
-###**My Website**
+**My Website**
 ------
 [21st-century](https://entertainment-websites.com/21st-century)
