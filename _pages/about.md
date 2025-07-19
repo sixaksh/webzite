@@ -7,8 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+
  🚀 Goodbye Gaming PCs? The Cloud Just Changed Everything
- ======
+======
 
  The next era of online gaming is cloud-native. Platforms like @NVIDIAGeForceNow, @Xbox Cloud, and @Amazon Luna now stream ultra-high-definition games at <30ms latency — straight to your browser, mobile, or TV.
  No downloads. No GPUs. No heat.
