@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: " Next-gen gaming features "
+title: " Emerging trends enhancing virtual gameplay "
 author_profile: true
 redirect_from: 
   - /about/
