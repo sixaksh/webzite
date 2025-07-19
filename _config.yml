@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "🎮 Gamer"
+title                    : "21st-century"
 title_separator          : "-"
 name                     : &name "Akshay"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "21st-century"
+  name             : "🎮 Gamer"
   pronouns         : # example: "she/her"  
   bio              : " Leveling up in life, one game at a time. "
   location         : "Earth"
