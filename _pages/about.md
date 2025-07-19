@@ -262,4 +262,4 @@ More info about configuring Academic Pages can be found in [the guide](https://a
 
 Website
 ------
-[Website] (https://entertainment-websites.com/21st-century)
+[Website](https://entertainment-websites.com/21st-century)
