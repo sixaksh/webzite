@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey, I’m X — a passionate gamer, content creator, and digital adventurer.
+Hey, I’m a passionate gamer, content creator, and digital adventurer.
 
 From pixel-perfect precision to high-stakes strategy, I bring energy, skill, and creativity to every game I play. Whether I’m dominating the leaderboard, streaming live content, or building immersive gaming experiences, I’m always pushing the limits.
 
